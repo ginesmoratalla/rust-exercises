@@ -1,2 +1,2 @@
 # rust-personal-projects
-Personal projects for my journey learning Rust programming language
+Personal exercises to practice and learn Rust.
